@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://exaechaey.sshilko.com/sitemap.xml
